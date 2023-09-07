@@ -11,9 +11,6 @@ This project is a clone of the Microsoft website's homepage. It replicates the l
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Setup](#setup)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Description
 
@@ -21,9 +18,9 @@ This project is a static HTML and CSS clone of the Microsoft website's homepage.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
-![Screenshot 3](screenshots/screenshot3.png)
+![Screenshot 1](git_img/main.png)
+![Screenshot 2](git_img/sub1.png)
+![Screenshot 3](git_img/sub2.png)
 
 ## Features
 
